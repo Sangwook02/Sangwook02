@@ -23,11 +23,11 @@
 
 #### 활동
 
-- [GDSC Hongik](https://github.com/GDSC-Hongik) 개발팀 (2024.01 ~ now)
+- [GDG on Campus Hongik Univ.](https://github.com/GDSC-Hongik) 개발팀 (2024.01 ~ now)
 
 #### 프로젝트
 
-- [GDSC Hongik 플랫폼](https://github.com/GDSC-Hongik/gdsc-server)
+- [GDG on Campus Hongik Univ. 플랫폼](https://github.com/GDSC-Hongik/gdsc-server)
 - [NewFit](https://github.com/NewFit/NewFit-Backend)
 
 ![Sangwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangwook02&show_icons=true&?count_private=true)
